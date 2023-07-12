@@ -1,0 +1,31 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "ctrl+alt+1",
+    "command": "extension.ecsstractor_port_runwithbem"
+  },
+  {
+    "key": "ctrl+alt+2",
+    "command": "extension.ecsstractor_port_run"
+  },
+  {
+    "key": "shift+alt+e",
+    "command": "extension.translateText"
+  },
+  {
+    "key": "ctrl+u ctrl+i",
+    "command": "code-runner.run"
+  },
+  {
+    "key": "ctrl+alt+n",
+    "command": "-code-runner.run"
+  },
+  {
+    "key": "ctrl+alt+3",
+    "command": "extension.ecsstractor_port_runwithoutbem"
+  },
+  {
+    "key": "ctrl+k 1",
+    "command": "workbench.files.action.collapseExplorerFolders"
+  }
+]
