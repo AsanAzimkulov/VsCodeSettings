@@ -1,0 +1,94 @@
+{
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome",
+  "security.workspace.trust.untrustedFiles": "open",
+  "live.SassCompile.settings.generateMap": false,
+  "live.SassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "autoprefix": "last 5 versions",
+      "extensionName": ".css",
+      "savePath": "css"
+    }
+  ],
+  "emmet.includeLanguages": {
+    "SCSS": "CSS",
+    "javascript": "javascriptreact"
+  },
+  "workbench.startupEditor": "none",
+  "editor.renderWhitespace": "all",
+  "vscodeGoogleTranslate.preferredLanguage": "Russian",
+  "editor.detectIndentation": false,
+  "workbench.editor.closeEmptyGroups": false,
+  "editor.mouseWheelZoom": true,
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "formats": "expanded",
+      "autoprefix": "last 5 versions",
+      "extensionName": ".css",
+      "savePath": "css"
+    }
+  ],
+  "path-autocomplete.pathMappings": {
+    "@img": "${folder}/src/img",
+    "@scss": "${folder}/src/scss",
+    "@js": "${folder}/src/js"
+  },
+
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "bracketPairColorizer.depreciation-notice": false,
+  "files.autoSave": "afterDelay",
+  "code-runner.defaultLanguage": "Javascript",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "workbench.colorTheme": "Ayu Light",
+  "workbench.iconTheme": "vscode-icons",
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "sync.gist": "f0c982cedcabafdca2acd1466ce53f14",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "compile-hero.less-output-directory": "./",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "gitlens.views.remotes.branches.layout": "list",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "settingsSync.ignoredExtensions": [],
+  "commentTranslate.targetLanguage": "ru",
+  "commentTranslate.hover.concise": true,
+  "volar.inlayHints.eventArgumentInInlineHandlers": false,
+  "path-intellisense.mappings": {},
+  "editor.fontLigatures": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "showOutput": "never",
+  "syncSettings.additionalFiles": [],
+  "syncSettings.confirmSync": true,
+  "syncSettings.hostname": "winpc",
+  "syncSettings.resources": [
+    
+
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ],
+  "syncSettings.hooks.preDownload": ""
+}
